@@ -1,0 +1,14 @@
+view_visible[0] = false;
+view_visible[1] = true;
+instance_create_depth(18944,-92,150,obj_enemy_boss_virusking_p0);
+instance_create_depth(room_width-1024-32,672,300,obj_block_1x);
+instance_create_depth(room_width-1024-32,608,300,obj_block_1x);
+instance_create_depth(room_width-1024-32,544,300,obj_block_1x);
+instance_create_depth(room_width-1024-32,480,300,obj_block_1x);
+instance_create_depth(room_width-1024-32,416,300,obj_block_1x);
+instance_create_depth(room_width+32,672,300,obj_block_1x);
+instance_create_depth(room_width+32,608,300,obj_block_1x);
+instance_create_depth(room_width+32,544,300,obj_block_1x);
+instance_create_depth(room_width+32,480,300,obj_block_1x);
+instance_create_depth(room_width+32,418,300,obj_block_1x);
+instance_destroy();

@@ -1,0 +1,1 @@
+obj_view_player_1024x768.state_hit = 0;

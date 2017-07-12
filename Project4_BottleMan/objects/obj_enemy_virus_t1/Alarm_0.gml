@@ -1,0 +1,1 @@
+state_rain = 0;

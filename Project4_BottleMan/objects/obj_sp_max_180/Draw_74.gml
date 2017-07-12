@@ -1,0 +1,1 @@
+draw_sprite(spr_sp_max_180,0,32,64);
