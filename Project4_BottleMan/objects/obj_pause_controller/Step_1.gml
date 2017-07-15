@@ -1,5 +1,5 @@
 var speedup = 5;
-
+/*
 if pause == 0 && obj_player.num_gravity = 1
 {
 	if keyboard_check_pressed(ord("X")) //Pauses the game when the player press Enter.
@@ -245,3 +245,4 @@ if pause == 1
 		}
 	}
 }
+/*
