@@ -2,5 +2,5 @@
 BottleMan, made by GameMaker Studio 2.
 
 ------
-
-![stage-1](http://storage1.imgchr.com/kYMBq.md.gif)
+</center>![stage-1](http://storage1.imgchr.com/kYMBq.md.gif)</center>
+------
