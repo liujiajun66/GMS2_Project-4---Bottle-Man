@@ -4,6 +4,6 @@ BottleMan, made by GameMaker Studio 2.
 Make the game for the first time.
 
 ------
-![image](http://storage1.imgchr.com/kYMBq.th.gif)
+![image](http://storage1.imgchr.com/kYMBq.gif)
 
 ------
